@@ -1,3 +1,4 @@
+
 name: Deploy DotNet project to function app with a Windows environment
 
 on:
